@@ -1,0 +1,45 @@
+body {
+position: relative;
+font-size: 170%;
+font-family: Verdana, sans-serif;
+}
+
+.menu {
+	text-align: center;
+	font-size: 175%;
+	font-weight: bold;
+}
+
+.divi {
+	width: 95%;
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 60px;
+}
+
+#item {
+	position: absolute;
+	right: 0px;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	padding: 5px 15px 5px 15px;
+	font-size: 125%;
+}
+
+.itemchicken {
+	background-color: pink;
+}
+
+.itembeef {
+	background-color: red;
+}
+
+.itemshushi {
+	background-color: yellow;
+}
+
+#content {
+	padding: 60px 10px 10px;
+	background-color: lightgrey;
+}
